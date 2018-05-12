@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="incrementalityType" value="SBT" />
+    <profile name="sbt 1" modules="minimal_play_scalajs_scalatags,server,sharedJVM" />
+    <profile name="sbt 2" modules="client">
+      <parameters>
+        <parameter value="-P:scalajs:mapSourceURI:file:/Users/gibsonap/Documents/projects/minimal_play_scalajs_scalatags/client/src/main/scala/-&gt;52b0ab0d9f306aa45de0/" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-compiler_2.12.4/jars/scalajs-compiler_2.12.4-0.6.21.jar" />
+      </plugins>
+    </profile>
+    <profile name="sbt 3" modules="webApp">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-encoding" />
+        <parameter value="utf8" />
+      </parameters>
+    </profile>
+    <profile name="sbt 4" modules="sharedJS">
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-compiler_2.12.6/jars/scalajs-compiler_2.12.6-0.6.22.jar" />
+      </plugins>
+    </profile>
+    <profile name="sbt 5" modules="clientJs">
+      <parameters>
+        <parameter value="-P:scalajs:mapSourceURI:file:/Users/gibsonap/Documents/projects/minimal_play_scalajs_scalatags/clientJs/src/main/scala/-&gt;c114cc68dccf24601a80/" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-compiler_2.12.6/jars/scalajs-compiler_2.12.6-0.6.22.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>

@@ -1,8 +1,8 @@
-package net.andrewresearch.server.controllers
+package controllers
 
 import javax.inject._
 
-import net.andrewresearch.server.views.HomePage
+import views.HomePage
 import net.andrewresearch.shared.SharedObject
 import play.api.mvc._
 

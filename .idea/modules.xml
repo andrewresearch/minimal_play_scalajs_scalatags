@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clientJs.iml" filepath="$PROJECT_DIR$/.idea/modules/clientJs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clientJs-build.iml" filepath="$PROJECT_DIR$/.idea/modules/clientJs-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/minimal_play_scalajs_scalatags-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/minimal_play_scalajs_scalatags-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server-build.iml" filepath="$PROJECT_DIR$/.idea/modules/server-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharedJS.iml" filepath="$PROJECT_DIR$/.idea/modules/sharedJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharedJS-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sharedJS-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharedJVM.iml" filepath="$PROJECT_DIR$/.idea/modules/sharedJVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharedJVM-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sharedJVM-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webApp.iml" filepath="$PROJECT_DIR$/.idea/modules/webApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webApp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/webApp-build.iml" />
+    </modules>
+  </component>
+</project>
